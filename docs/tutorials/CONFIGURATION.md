@@ -16,7 +16,7 @@
 
 ```bash
 # 复制示例配置文件
-cp .env.example .env
+cp .env .env
 ```
 
 ### 2. 配置LLM服务
